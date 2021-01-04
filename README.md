@@ -1,0 +1,1 @@
+My first node site, a simple navigation page which leads the user to about, contact-me and index pages based on the url they search for.
